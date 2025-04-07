@@ -112,8 +112,8 @@
         <mxCell id="NWEnSYuh-qDrlvcX52Ja-39" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;反爬模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="440" width="125" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NWEnSYuh-qDrlvcX52Ja-41" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;app.py&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;flask&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="320" width="110" height="90" as="geometry" />
+        <mxCell id="NWEnSYuh-qDrlvcX52Ja-41" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;main.py&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;flask&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="420" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
